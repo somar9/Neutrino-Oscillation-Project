@@ -5,7 +5,6 @@ This repository contains Jupyter notebooks used to compute, fit, and visualise d
 ## Notebooks Overview
 
 - **`2x2 model+extra.ipynb`**
-
   Includes code and plots for the two-flavour oscillation model, as well as validation plots and some initial results for the three-flavour model.
 
 - **`2x2 uncertainties.ipynb`**  
